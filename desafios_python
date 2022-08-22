@@ -1,0 +1,18 @@
+ 72- Crie um programa que tenha uma tupla totalmente preeenchida com uma contagem por extenso, de ZERO até VINTE.
+
+ Seuprograma deverá ler um número pelo teclado (entre 0 e 20) e mostra-lo por extenso
+
+
+ 75- Desenvolva um programa que leia QUATRO VALORES  pelo teclado e guarde-os em uma tupla. No final, mostre:
+
+ A) Quantas vezes apareceu o valor 9
+
+ B) Em que posição foi digitado o primeiro valor 3
+
+ C) Quais foram os números PARES. 
+
+ 76- Crie um programa que tenha uma TUPLA única com NOMES DE PRODUTOS e seus respectivos PREÇOS, na sequência.
+
+ No final, mostre uma listagem de preços, organizando os dados em forma TABULAR
+
+77 - Crie  um programa que tenha uma TUPLA com VÁRIAS PALAVRAS (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas VOGAIS
